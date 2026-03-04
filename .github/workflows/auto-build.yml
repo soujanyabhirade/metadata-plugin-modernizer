@@ -1,0 +1,16 @@
+name: Notify Dashboard
+on:
+  push:
+    paths:
+      - '**/modernization-metadata/*.json'
+
+jobs:
+  dispatch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send signal to Dashboard
+        run: |
+          curl -X POST https://api.github.com/repos/YOUR_USERNAME/YOUR_DASHBOARD_REPO/dispatches \
+          -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: token ${{ secrets.DASHBOARD_TOKEN }}" \
+          -d '{"event_type": "metadata_updated"}'
