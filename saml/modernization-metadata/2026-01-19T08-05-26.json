@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/saml-plugin/pull/763",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 18,
   "deletions": 17,
@@ -41,5 +41,5 @@
   },
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "a59ca670e5745e815461a11009cedaa99b013e9b"
+  "defaultBranchLatestCommitSha": "7875d61cd9f511326f65d97054267ee1b15bbb81"
 }
