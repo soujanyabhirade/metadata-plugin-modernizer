@@ -11,28 +11,15 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/ansible-tower-plugin/pull/27",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 12,
   "deletions": 24,
   "changedFiles": 2,
   "key": "2025-07-02T18-29-44.json",
   "path": "metadata-plugin-modernizer/ansible-tower/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "failure",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "failure",
-    "Tests / linux-21 / Build (linux-21)": "success"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "83f67ed4f2a63a05d0a4eba58eb2e74d89effa65"
+  "defaultBranchLatestCommitSha": "b07ecb0f995db497e4ec8cfbea629ccdc02ecd21"
 }
