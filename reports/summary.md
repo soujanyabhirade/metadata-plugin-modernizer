@@ -1,6 +1,6 @@
 
 # Jenkins Plugin Modernizer Report
-Generated on: 2026-03-02 00:47:48 UTC
+Generated on: 2026-09-05 04:16:10 UTC
 
 ## Overview
 - **Total Migrations**: 1235
@@ -15,9 +15,9 @@ Generated on: 2026-03-02 00:47:48 UTC
 - io.jenkins.tools.pluginmodernizer.MigrateToJUnit5: 4 failures
 - io.jenkins.tools.pluginmodernizer.RemoveOldJavaVersionForModernJenkins: 3 failures
 - io.jenkins.tools.pluginmodernizer.UpgradeToLatestJava11CoreVersion: 2 failures
-- io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
-- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
 - io.jenkins.tools.pluginmodernizer.MigrateToJava25: 1 failures
+- io.jenkins.tools.pluginmodernizer.AddCodeOwner: 1 failures
+- io.jenkins.tools.pluginmodernizer.SetupDependabot: 1 failures
 
 ## Plugins with Failed Migrations
 - [CustomHistory](../CustomHistory/reports/failed_migrations.csv)
@@ -259,3 +259,21 @@ Generated on: 2026-03-02 00:47:48 UTC
 
 
 *Note: No. of Migrations != No. of PRs. A migration applied may trigger force push on already opened PR.*
+
+## Migration Timeline
+- **2025-06**: 1 success, 1 fail, 2 total
+- **2025-07**: 164 success, 377 fail, 541 total
+- **2025-08**: 50 success, 5 fail, 55 total
+- **2025-09**: 50 success, 181 fail, 231 total
+- **2025-10**: 25 success, 9 fail, 34 total
+- **2025-11**: 5 success, 2 fail, 7 total
+- **2026-01**: 300 success, 12 fail, 312 total
+- **2026-02**: 3 success, 0 fail, 3 total
+
+## Tags
+- **skip-verification**: 750
+- **chore**: 750
+- **dependencies**: 361
+- **migration**: 192
+- **developer**: 118
+- **testing**: 6
