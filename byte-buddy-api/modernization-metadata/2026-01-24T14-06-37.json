@@ -28,7 +28,7 @@
     "Tests / linux-25 / Build (linux-25)": "success",
     "security-scan / scan": "success"
   },
-  "checkRunsSummary": "pending",
+  "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "765ec5bb3b2a999c13340b64eea59287e9590fa6"
+  "defaultBranchLatestCommitSha": "b0a1833e80e817e2c76f29363f10f98179b1ad15"
 }

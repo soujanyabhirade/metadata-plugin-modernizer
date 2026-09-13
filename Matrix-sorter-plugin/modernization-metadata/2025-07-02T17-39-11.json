@@ -11,17 +11,15 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/Matrix-sorter-plugin/pull/4",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 21,
   "deletions": 6,
   "changedFiles": 2,
   "key": "2025-07-02T17-39-11.json",
   "path": "metadata-plugin-modernizer/Matrix-sorter-plugin/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "0639e074187e6b016098c62b67ae5d831a213c8c"
+  "defaultBranchLatestCommitSha": "b0b16374b8a9d0f8c04fc812395df94bd956efd2"
 }
