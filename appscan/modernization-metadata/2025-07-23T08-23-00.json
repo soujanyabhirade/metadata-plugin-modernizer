@@ -23,12 +23,9 @@
   "key": "2025-07-23T08-23-00.json",
   "path": "metadata-plugin-modernizer/appscan/modernization-metadata",
   "checkRuns": {
-    "Jenkins Security Scan": "success",
-    "publish": "failure",
-    "scan": "success",
-    "security-scan / scan": "success"
+    "publish": "failure"
   },
   "checkRunsSummary": "failure",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "4886e386b4d57abbd6c403f4ac77ec0a42169c25"
+  "defaultBranchLatestCommitSha": "3f7f38671562f2f26d716f19d416d4ae20d74759"
 }
