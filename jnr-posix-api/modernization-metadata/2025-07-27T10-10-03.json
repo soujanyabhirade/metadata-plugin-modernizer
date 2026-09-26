@@ -21,25 +21,8 @@
   "changedFiles": 1,
   "key": "2025-07-27T10-10-03.json",
   "path": "metadata-plugin-modernizer/jnr-posix-api/modernization-metadata",
-  "checkRuns": {
-    "CPD": "success",
-    "CheckStyle": "success",
-    "Code Coverage": "success",
-    "ESLint": "success",
-    "Incrementals": "success",
-    "Java Compiler": "success",
-    "JavaDoc": "success",
-    "Jenkins": "success",
-    "Jenkins Security Scan": "success",
-    "Maven": "success",
-    "Open Tasks Scanner": "success",
-    "PMD": "success",
-    "SpotBugs": "success",
-    "Tests / linux-21 / Build (linux-21)": "success",
-    "Tests / windows-17 / Build (windows-17)": "success",
-    "security-scan / scan": "success"
-  },
+  "checkRuns": {},
   "checkRunsSummary": "success",
   "defaultBranch": "main",
-  "defaultBranchLatestCommitSha": "e614c9c9e08dcc0ac34914634d3e7aae2f3cb5b6"
+  "defaultBranchLatestCommitSha": "4f0cfd7fa00602056d29b6ffbe8e259aafe42e04"
 }
