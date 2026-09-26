@@ -15,7 +15,7 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.MigrateCommonsLang2ToLang3AndCommonText",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/docker-workflow-plugin/pull/738",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "closed",
   "dryRun": false,
   "additions": 12,
   "deletions": 7,
@@ -43,5 +43,5 @@
   },
   "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "3e04e4f56ee66203566351e32da6253a6b0f3429"
+  "defaultBranchLatestCommitSha": "c9dc97d74ce3fa7ea0d95f3e1fa5f07d685932ee"
 }
