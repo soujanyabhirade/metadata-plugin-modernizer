@@ -14,17 +14,15 @@
   "migrationId": "io.jenkins.tools.pluginmodernizer.UpgradeNextMajorParentVersion",
   "migrationStatus": "success",
   "pullRequestUrl": "https://github.com/jenkinsci/katalon-plugin/pull/36",
-  "pullRequestStatus": "open",
+  "pullRequestStatus": "merged",
   "dryRun": false,
   "additions": 24,
   "deletions": 17,
   "changedFiles": 4,
   "key": "2025-09-05T14-25-26.json",
   "path": "metadata-plugin-modernizer/katalon/modernization-metadata",
-  "checkRuns": {
-    "Jenkins": "failure"
-  },
-  "checkRunsSummary": "failure",
+  "checkRuns": {},
+  "checkRunsSummary": "success",
   "defaultBranch": "master",
-  "defaultBranchLatestCommitSha": "9dc68bc286eb2d8d70a17faaad8e5f052c6c1474"
+  "defaultBranchLatestCommitSha": "6a5c6c011279a9c144bd3ab66f5fead1c754977b"
 }
